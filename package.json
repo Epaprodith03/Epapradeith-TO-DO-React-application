@@ -2,7 +2,7 @@
   "name": "todo-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://your-username.github.io/your-repo-name"
+  "homepage": "https://Epaprodith03.github.io/Epapradeith-TO-DO-React-application",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -11,6 +11,9 @@
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
