@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Epapradeith-TO-DO-React-application/static/css/main.579b4372.css",
+    "main.js": "/Epapradeith-TO-DO-React-application/static/js/main.b0ce3640.js",
+    "static/js/453.81f383cb.chunk.js": "/Epapradeith-TO-DO-React-application/static/js/453.81f383cb.chunk.js",
+    "index.html": "/Epapradeith-TO-DO-React-application/index.html",
+    "main.579b4372.css.map": "/Epapradeith-TO-DO-React-application/static/css/main.579b4372.css.map",
+    "main.b0ce3640.js.map": "/Epapradeith-TO-DO-React-application/static/js/main.b0ce3640.js.map",
+    "453.81f383cb.chunk.js.map": "/Epapradeith-TO-DO-React-application/static/js/453.81f383cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.579b4372.css",
+    "static/js/main.b0ce3640.js"
+  ]
+}
